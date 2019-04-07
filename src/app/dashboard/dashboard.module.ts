@@ -9,13 +9,13 @@ import { DadosService } from './dados.service';
     CommonModule
   ],
   declarations: [
-  	DashboardComponent
+    DashboardComponent
   ],
   exports: [
-  	DashboardComponent
+    DashboardComponent
   ],
   providers: [
-  	DadosService
+    DadosService
   ]
 })
 export class DashboardModule { }

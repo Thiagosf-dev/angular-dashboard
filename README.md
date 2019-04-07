@@ -2,13 +2,20 @@
 
 ## Dashboard em Angular com API de Gráficos do Google
 
-1. >*Module*
-1. >*Component*
-1. >*Service*
-1. >*Providers*
-1. >*TypeScript declare (global variable)*
-1. >*Observable (implementação manual)*
-1. >*API Externa (Google API Charts)*
+1. > _Module_
+1. > _Component_
+1. > _Service_
+1. > _Providers_
+1. > _TypeScript declare (global variable)_
+1. > _Observable (implementação manual)_
+1. > _API Externa (Google API Chart)_
+
+## To run the project
+
+##### After cloning the project, run:
+
+1. `npm install`
+1. `ng serve`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 
